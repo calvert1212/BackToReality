@@ -1,3 +1,7 @@
+Hack Sprint Project
+
+Author: Chad Calvert (chad.calvert@atlasschool.com)
+_________________________________________________________________________________________________________________
 # GitHub Codespaces ♥️ React
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
